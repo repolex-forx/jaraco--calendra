@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "calendra",
+  "versions": [
+    {
+      "commit": "cd3de1b04dcb850f7addae54d231a93e3bc71b9a",
+      "tag": "",
+      "parsed_at": "2026-10-18T09:46:45.697250+00:00"
+    }
+  ]
+}

@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/calendra/commit/cd3de1b04dcb850f7addae54d231a93e3bc71b9a",
       "git:hexsha": "cd3de1b04dcb850f7addae54d231a93e3bc71b9a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T09:46:45.696557+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/calendra/commit/d0b3b8bad5ce52c289a05fd6e589390880030151",

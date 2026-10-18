@@ -1,0 +1,7 @@
+[2026-10-18T09:44:18Z] === AST ITERATION 1 START | repo=jaraco/calendra sha=cd3de1b0 ===
+[2026-10-18T09:44:18Z] [iter=1] PHASE START: ast repo=jaraco/calendra sha=cd3de1b0
+[2026-10-18T09:44:18Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T09:45:43Z] [iter=1] AST chunks built count=1 triples=1024502
+[2026-10-18T09:45:43Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/cd3de1b04dcb850f7addae54d231a93e3bc71b9a/.complete
+[2026-10-18T09:45:43Z] [iter=1] PHASE END: ast elapsed_s=85 elapsed_min=1.4
+[2026-10-18T09:45:43Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
